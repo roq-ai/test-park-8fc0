@@ -1,0 +1,2422 @@
+[
+  {
+    "widget": [
+      {
+        "id": "6068aedd-d92d-494f-872c-123553528db6",
+        "name": "Widget A",
+        "type": "Type 1",
+        "is_active": true,
+        "created_at": "2023-09-26T23:44:53.148Z",
+        "updated_at": "2023-09-26T18:46:39.696Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "273c6227-2aea-4ef3-a78d-2ae601b79242",
+        "name": "Widget B",
+        "type": "Type 2",
+        "is_active": true,
+        "created_at": "2023-09-27T07:27:10.073Z",
+        "updated_at": "2023-09-26T13:18:41.422Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d2a0d4e1-3983-4b0b-bbee-689711299069",
+        "name": "Widget C",
+        "type": "Type 3",
+        "is_active": true,
+        "created_at": "2023-09-26T13:42:29.073Z",
+        "updated_at": "2023-09-27T07:41:24.130Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "aa3f3237-2e23-4ee7-8556-26d09b353cf7",
+        "name": "Widget D",
+        "type": "Type 4",
+        "is_active": true,
+        "created_at": "2023-09-26T10:05:50.669Z",
+        "updated_at": "2023-09-27T08:12:17.846Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "accc020a-981e-41c0-a65a-01e937c8fdfb",
+        "name": "Widget E",
+        "type": "Type 5",
+        "is_active": true,
+        "created_at": "2023-09-26T17:16:22.420Z",
+        "updated_at": "2023-09-26T17:01:46.700Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "parking": [
+      {
+        "id": "0ba7cb5a-e495-42ae-bf5f-328680a12cbe",
+        "name": "Parking Lot 1",
+        "location": "Location 1",
+        "capacity": 81278,
+        "is_active": false,
+        "created_at": "2023-09-26T21:48:31.045Z",
+        "updated_at": "2023-09-26T12:34:16.751Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5dd0a135-2797-4963-81b2-ae0bab4fdf08",
+        "name": "Parking Lot 2",
+        "location": "Location 2",
+        "capacity": 97689,
+        "is_active": false,
+        "created_at": "2023-09-27T01:51:53.588Z",
+        "updated_at": "2023-09-27T04:15:20.585Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "69809537-4898-4572-87f4-1369ab73a14b",
+        "name": "Parking Lot 3",
+        "location": "Location 3",
+        "capacity": 64645,
+        "is_active": true,
+        "created_at": "2023-09-27T08:14:41.140Z",
+        "updated_at": "2023-09-26T15:30:09.860Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "45d92730-46f5-4115-b20d-1419a07ebe32",
+        "name": "Parking Lot 4",
+        "location": "Location 4",
+        "capacity": 63540,
+        "is_active": true,
+        "created_at": "2023-09-27T07:42:01.463Z",
+        "updated_at": "2023-09-27T03:29:35.453Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f8f1e1c6-1038-4dc5-968c-d301fb93a759",
+        "name": "Parking Lot 5",
+        "location": "Location 5",
+        "capacity": 8098,
+        "is_active": true,
+        "created_at": "2023-09-27T09:23:21.734Z",
+        "updated_at": "2023-09-26T18:10:58.255Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "nav_bar": [
+      {
+        "id": "e4e96c08-16c9-44b9-81c5-a6d8907e95e7",
+        "name": "Navigation Bar A",
+        "type": "Type A",
+        "is_active": false,
+        "created_at": "2023-09-27T03:47:07.420Z",
+        "updated_at": "2023-09-27T04:28:07.356Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e77832d4-bf81-4493-ab10-6c8bcafc27a2",
+        "name": "Navigation Bar B",
+        "type": "Type B",
+        "is_active": false,
+        "created_at": "2023-09-27T03:16:35.803Z",
+        "updated_at": "2023-09-26T14:39:35.215Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9e92cd4d-0d92-4706-8344-28ab96a4f8bf",
+        "name": "Navigation Bar C",
+        "type": "Type C",
+        "is_active": false,
+        "created_at": "2023-09-26T15:35:38.863Z",
+        "updated_at": "2023-09-26T13:07:09.520Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "02b48497-e106-48be-938b-af738cb2aea5",
+        "name": "Navigation Bar D",
+        "type": "Type D",
+        "is_active": false,
+        "created_at": "2023-09-27T07:52:56.522Z",
+        "updated_at": "2023-09-27T03:54:40.084Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e45d5ff7-74b2-4376-92aa-db4ee4219af7",
+        "name": "Navigation Bar E",
+        "type": "Type E",
+        "is_active": false,
+        "created_at": "2023-09-26T23:02:56.488Z",
+        "updated_at": "2023-09-26T17:24:06.391Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "menu": [
+      {
+        "id": "feccccf3-66e6-4d12-be0e-ebf466f45635",
+        "name": "Menu A",
+        "type": "Type X",
+        "is_active": true,
+        "created_at": "2023-09-26T16:10:50.019Z",
+        "updated_at": "2023-09-27T05:59:07.183Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0d691207-20ce-4c19-a66c-c668a7776976",
+        "name": "Menu B",
+        "type": "Type Y",
+        "is_active": true,
+        "created_at": "2023-09-27T00:42:38.960Z",
+        "updated_at": "2023-09-26T21:10:12.642Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6aed9a44-3f96-4188-ac8e-ece371460d90",
+        "name": "Menu C",
+        "type": "Type Z",
+        "is_active": false,
+        "created_at": "2023-09-27T00:26:52.599Z",
+        "updated_at": "2023-09-26T21:30:35.218Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5291e167-8284-46b9-a4ef-f72f0e607ca4",
+        "name": "Menu D",
+        "type": "Type W",
+        "is_active": false,
+        "created_at": "2023-09-27T04:14:32.728Z",
+        "updated_at": "2023-09-27T03:23:21.073Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d6b5aeed-e65f-4399-a6e8-675f8431df0f",
+        "name": "Menu E",
+        "type": "Type V",
+        "is_active": false,
+        "created_at": "2023-09-26T22:54:27.718Z",
+        "updated_at": "2023-09-27T07:53:41.895Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "6d0afd6c-91ca-4dec-8c41-8f77f250aa1a",
+        "email": "Jonatan98@roq.tech",
+        "firstName": "Kiera",
+        "lastName": "Harber",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/83795764",
+        "tenantId": null
+      },
+      {
+        "reference": "0bac52fa-fb2f-4c60-ad56-129e6edffb1e",
+        "email": "Kellen93@roq.tech",
+        "firstName": "Lance",
+        "lastName": "Hansen",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/118.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "a2f33603-835d-466e-a02e-39cee7c5962e",
+        "email": "Cristopher_Gutmann42@roq.tech",
+        "firstName": "Nella",
+        "lastName": "Reinger",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/33639022",
+        "tenantId": null
+      },
+      {
+        "reference": "2b201a81-28d1-4b3c-8fd3-c9057a0dcf6f",
+        "email": "Carter26@roq.tech",
+        "firstName": "Anibal",
+        "lastName": "Ernser",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/27561058",
+        "tenantId": null
+      },
+      {
+        "reference": "db670207-fc3e-427c-84b4-fb51a338e7cd",
+        "email": "Boris34@roq.tech",
+        "firstName": "Carey",
+        "lastName": "Greenfelder",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1121.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "widget": [
+      {
+        "id": "38a799a6-26b5-4243-8e1f-9766acc7981c",
+        "name": "Widget 1",
+        "type": "Type A",
+        "is_active": true,
+        "created_at": "2023-09-27T08:42:46.731Z",
+        "updated_at": "2023-09-26T19:20:42.577Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d2b54546-b6c0-48ec-bb1e-6c2d087d462a",
+        "name": "Widget 2",
+        "type": "Type B",
+        "is_active": true,
+        "created_at": "2023-09-26T18:28:10.009Z",
+        "updated_at": "2023-09-26T22:12:40.177Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7ae381e3-a368-4ffe-98fa-77ea78f5cab6",
+        "name": "Widget 3",
+        "type": "Type C",
+        "is_active": true,
+        "created_at": "2023-09-26T14:55:28.088Z",
+        "updated_at": "2023-09-27T00:42:30.727Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "893e4ad0-1d4e-4015-a422-2e2b7142b651",
+        "name": "Widget 4",
+        "type": "Type D",
+        "is_active": false,
+        "created_at": "2023-09-27T00:31:41.319Z",
+        "updated_at": "2023-09-27T02:14:16.791Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "29f2f3fc-7a59-470e-b127-d5e2513dd9fd",
+        "name": "Widget 5",
+        "type": "Type E",
+        "is_active": true,
+        "created_at": "2023-09-27T02:53:33.091Z",
+        "updated_at": "2023-09-27T06:13:29.349Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "parking": [
+      {
+        "id": "b8301b7d-7427-4995-925e-f03be8481e04",
+        "name": "Parking 1",
+        "location": "Location A",
+        "capacity": 70600,
+        "is_active": false,
+        "created_at": "2023-09-26T11:05:59.157Z",
+        "updated_at": "2023-09-26T09:43:31.269Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ad45c2c4-5f9a-40b7-9a9f-f27b493d3d3e",
+        "name": "Parking 2",
+        "location": "Location B",
+        "capacity": 17405,
+        "is_active": true,
+        "created_at": "2023-09-26T16:17:05.621Z",
+        "updated_at": "2023-09-27T00:15:52.053Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f81fbf2d-2329-4220-b58e-e4fee3f68148",
+        "name": "Parking 3",
+        "location": "Location C",
+        "capacity": 76473,
+        "is_active": true,
+        "created_at": "2023-09-26T17:16:59.664Z",
+        "updated_at": "2023-09-27T07:45:30.947Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4b21a565-5a39-43ec-8ff9-849f7b8ce099",
+        "name": "Parking 4",
+        "location": "Location D",
+        "capacity": 4471,
+        "is_active": true,
+        "created_at": "2023-09-27T01:10:50.262Z",
+        "updated_at": "2023-09-27T05:52:01.391Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4f24a029-d938-44d8-bf64-0932a07ed5b5",
+        "name": "Parking 5",
+        "location": "Location E",
+        "capacity": 77848,
+        "is_active": true,
+        "created_at": "2023-09-26T16:41:59.290Z",
+        "updated_at": "2023-09-26T12:26:02.512Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "nav_bar": [
+      {
+        "id": "6f50cf80-3640-4072-8a00-20bfdfac8d1b",
+        "name": "Nav Bar 1",
+        "type": "Type X",
+        "is_active": false,
+        "created_at": "2023-09-26T16:10:52.159Z",
+        "updated_at": "2023-09-26T11:50:22.204Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "1323905d-0a28-4904-8756-bdce66679df1",
+        "name": "Nav Bar 2",
+        "type": "Type Y",
+        "is_active": false,
+        "created_at": "2023-09-27T07:00:23.478Z",
+        "updated_at": "2023-09-26T14:39:00.878Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7c4e47cb-18f7-468c-bb5a-1e45de24f873",
+        "name": "Nav Bar 3",
+        "type": "Type Z",
+        "is_active": true,
+        "created_at": "2023-09-27T04:41:03.167Z",
+        "updated_at": "2023-09-26T12:55:48.049Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2b617d8c-db78-4d07-96d2-ee1ed612c602",
+        "name": "Nav Bar 4",
+        "type": "Type W",
+        "is_active": true,
+        "created_at": "2023-09-26T21:10:15.351Z",
+        "updated_at": "2023-09-26T14:32:04.190Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "10a49c8e-1a60-4616-bc45-7c5fd9bdcf28",
+        "name": "Nav Bar 5",
+        "type": "Type V",
+        "is_active": false,
+        "created_at": "2023-09-26T21:16:57.934Z",
+        "updated_at": "2023-09-27T02:11:10.216Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "menu": [
+      {
+        "id": "eb23b96e-4c54-4667-8f36-40f10bdc587f",
+        "name": "Menu 1",
+        "type": "Type I",
+        "is_active": false,
+        "created_at": "2023-09-26T16:31:12.444Z",
+        "updated_at": "2023-09-26T21:52:11.225Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9faebd02-a000-4db1-8c3c-9ce46be1d8ba",
+        "name": "Menu 2",
+        "type": "Type II",
+        "is_active": false,
+        "created_at": "2023-09-27T01:10:10.350Z",
+        "updated_at": "2023-09-27T06:55:25.612Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "94b41c3b-eb04-4faa-9d74-179cc92a5aa9",
+        "name": "Menu 3",
+        "type": "Type III",
+        "is_active": true,
+        "created_at": "2023-09-26T10:22:22.643Z",
+        "updated_at": "2023-09-27T07:45:38.650Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "aab88912-76d4-457b-a1e1-205e6887e7f4",
+        "name": "Menu 4",
+        "type": "Type IV",
+        "is_active": true,
+        "created_at": "2023-09-26T21:29:08.732Z",
+        "updated_at": "2023-09-26T20:47:27.972Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "491aa8aa-f95a-4397-a520-ee6be2a2304a",
+        "name": "Menu 5",
+        "type": "Type V",
+        "is_active": false,
+        "created_at": "2023-09-26T09:50:15.599Z",
+        "updated_at": "2023-09-27T03:44:22.048Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "ae4319b5-39a4-4c65-b651-69f061a13c6f",
+        "email": "Dante.Hirthe19@roq.tech",
+        "firstName": "Jettie",
+        "lastName": "Rice-Hessel",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/3625907",
+        "tenantId": null
+      },
+      {
+        "reference": "99404675-58d0-4dbd-8ecd-79d39c378cb1",
+        "email": "Lexi.Kris@roq.tech",
+        "firstName": "Heather",
+        "lastName": "MacGyver",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/99618268",
+        "tenantId": null
+      },
+      {
+        "reference": "3b373473-0a96-46dc-a856-38eb122aeffa",
+        "email": "Derick74@roq.tech",
+        "firstName": "Torrey",
+        "lastName": "Fahey",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/540.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "973c0747-b7d9-4ade-86f7-afff5759219e",
+        "email": "Anissa.Bauch@roq.tech",
+        "firstName": "Sydney",
+        "lastName": "Kuhic",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/94.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "01239b02-bb88-459f-ae7d-a95dc7d6ca1a",
+        "email": "Nicola84@roq.tech",
+        "firstName": "Vincenza",
+        "lastName": "Mraz",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/823.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "widget": [
+      {
+        "id": "548d9629-a93f-46bf-85b6-2f7a69958e1e",
+        "name": "Widget A",
+        "type": "Type 1",
+        "is_active": false,
+        "created_at": "2023-09-26T11:38:58.016Z",
+        "updated_at": "2023-09-26T10:07:07.993Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "09be8b85-ca38-41ed-911d-dafbd30a2429",
+        "name": "Widget B",
+        "type": "Type 2",
+        "is_active": false,
+        "created_at": "2023-09-27T07:52:31.881Z",
+        "updated_at": "2023-09-26T19:23:14.869Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e7a0c0fc-d64d-44f9-b116-4895d44201a8",
+        "name": "Widget C",
+        "type": "Type 3",
+        "is_active": true,
+        "created_at": "2023-09-27T07:16:46.931Z",
+        "updated_at": "2023-09-26T20:25:55.436Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "24a1da78-b934-46c0-8194-0ccbdf519067",
+        "name": "Widget D",
+        "type": "Type 4",
+        "is_active": true,
+        "created_at": "2023-09-26T10:53:32.157Z",
+        "updated_at": "2023-09-27T05:37:56.060Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "597487f7-5716-43ca-89f7-986ad0d3e40a",
+        "name": "Widget E",
+        "type": "Type 5",
+        "is_active": true,
+        "created_at": "2023-09-26T17:05:55.114Z",
+        "updated_at": "2023-09-26T12:31:35.548Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "parking": [
+      {
+        "id": "d609450a-9161-4d35-9b59-081d38bb020d",
+        "name": "Parking Lot A",
+        "location": "Location 1",
+        "capacity": 77976,
+        "is_active": true,
+        "created_at": "2023-09-26T13:16:16.830Z",
+        "updated_at": "2023-09-26T21:14:28.491Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b54ea88d-95c3-4678-9729-6eca6c2353c4",
+        "name": "Parking Lot B",
+        "location": "Location 2",
+        "capacity": 43355,
+        "is_active": false,
+        "created_at": "2023-09-26T18:45:00.524Z",
+        "updated_at": "2023-09-26T16:16:34.835Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "dc575b32-8ac3-4307-bbb2-c0c32edffc78",
+        "name": "Parking Lot C",
+        "location": "Location 3",
+        "capacity": 88351,
+        "is_active": false,
+        "created_at": "2023-09-26T14:01:15.491Z",
+        "updated_at": "2023-09-27T01:55:02.761Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ccc3fc2f-d9ee-470b-b60a-57316bc2fa9a",
+        "name": "Parking Lot D",
+        "location": "Location 4",
+        "capacity": 72192,
+        "is_active": true,
+        "created_at": "2023-09-26T20:07:32.053Z",
+        "updated_at": "2023-09-26T19:09:00.803Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "dac96904-633b-4eef-80a2-18f5d2350fb3",
+        "name": "Parking Lot E",
+        "location": "Location 5",
+        "capacity": 27333,
+        "is_active": false,
+        "created_at": "2023-09-26T17:29:32.440Z",
+        "updated_at": "2023-09-26T19:16:23.859Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "nav_bar": [
+      {
+        "id": "e52be198-c350-49f8-ba28-c34f9e38c8fd",
+        "name": "Nav Bar A",
+        "type": "Type 1",
+        "is_active": false,
+        "created_at": "2023-09-27T01:58:02.432Z",
+        "updated_at": "2023-09-27T00:19:55.582Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f934701e-c811-4835-8e0c-8760fb1c315f",
+        "name": "Nav Bar B",
+        "type": "Type 2",
+        "is_active": true,
+        "created_at": "2023-09-26T16:58:10.546Z",
+        "updated_at": "2023-09-26T12:12:23.559Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "918e6d4a-e689-4ceb-a885-6425184d12a8",
+        "name": "Nav Bar C",
+        "type": "Type 3",
+        "is_active": true,
+        "created_at": "2023-09-27T00:06:33.665Z",
+        "updated_at": "2023-09-26T19:30:26.753Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b60b86b9-196e-458e-b523-e0c3764c18c9",
+        "name": "Nav Bar D",
+        "type": "Type 4",
+        "is_active": false,
+        "created_at": "2023-09-26T22:36:09.944Z",
+        "updated_at": "2023-09-27T05:07:00.732Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e88bb315-16fa-452a-be13-98f12098596d",
+        "name": "Nav Bar E",
+        "type": "Type 5",
+        "is_active": true,
+        "created_at": "2023-09-27T06:18:23.302Z",
+        "updated_at": "2023-09-27T02:59:53.605Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "menu": [
+      {
+        "id": "f771d3c6-3e9a-4176-8592-241413f21fcf",
+        "name": "Menu A",
+        "type": "Type 1",
+        "is_active": false,
+        "created_at": "2023-09-27T02:01:55.839Z",
+        "updated_at": "2023-09-26T23:10:37.101Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "20bd8d47-eaaf-4b70-aeca-f88c3d5a2410",
+        "name": "Menu B",
+        "type": "Type 2",
+        "is_active": true,
+        "created_at": "2023-09-26T11:34:11.244Z",
+        "updated_at": "2023-09-26T10:06:23.175Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c63782b9-bd89-4d38-b2e9-5b804c1cdf63",
+        "name": "Menu C",
+        "type": "Type 3",
+        "is_active": true,
+        "created_at": "2023-09-27T03:11:17.361Z",
+        "updated_at": "2023-09-26T18:06:50.964Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "675deaee-a1ee-4cd9-a097-ba4db452fefe",
+        "name": "Menu D",
+        "type": "Type 4",
+        "is_active": true,
+        "created_at": "2023-09-27T00:28:22.331Z",
+        "updated_at": "2023-09-26T22:36:14.333Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3a5d682d-1c8c-4c12-a606-95178d76c6c7",
+        "name": "Menu E",
+        "type": "Type 5",
+        "is_active": false,
+        "created_at": "2023-09-27T05:00:11.479Z",
+        "updated_at": "2023-09-26T23:54:20.852Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "1367bbe3-6cb7-4fa4-936c-b6372f8fd78b",
+        "email": "Conor.Aufderhar39@roq.tech",
+        "firstName": "Rachael",
+        "lastName": "Kuphal",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/40497265",
+        "tenantId": null
+      },
+      {
+        "reference": "c85309e5-f20d-47ba-bdd0-f07abbbd9624",
+        "email": "Marcos_McLaughlin@roq.tech",
+        "firstName": "Ralph",
+        "lastName": "Turner",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1138.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "c6e2294e-9a33-4782-a9d3-6ae2a4cbbee4",
+        "email": "Larissa.Bailey22@roq.tech",
+        "firstName": "Saige",
+        "lastName": "Wiza",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/658.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "e8734e61-bc5b-4fb0-97fc-dbafca95a109",
+        "email": "Mervin.Rath86@roq.tech",
+        "firstName": "Winifred",
+        "lastName": "McCullough",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/875924",
+        "tenantId": null
+      },
+      {
+        "reference": "5b85cf13-a81c-459d-acdb-44d822dd6d4f",
+        "email": "Stevie95@roq.tech",
+        "firstName": "Emerald",
+        "lastName": "Kuvalis",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/263.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "widget": [
+      {
+        "id": "9979c6ac-9f83-4c23-acf2-0be06555d37d",
+        "name": "Widget A",
+        "type": "Type 1",
+        "is_active": false,
+        "created_at": "2023-09-27T04:01:59.494Z",
+        "updated_at": "2023-09-26T18:24:05.034Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3b61e2aa-789d-44f8-b63d-8502dbeb6b12",
+        "name": "Widget B",
+        "type": "Type 2",
+        "is_active": false,
+        "created_at": "2023-09-27T07:18:47.314Z",
+        "updated_at": "2023-09-27T07:53:53.513Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4a59ffba-aa71-4fc5-9329-5f8181776955",
+        "name": "Widget C",
+        "type": "Type 3",
+        "is_active": true,
+        "created_at": "2023-09-26T10:06:38.961Z",
+        "updated_at": "2023-09-26T22:34:55.986Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "739b4a27-3ab8-4138-8c58-09f551375a51",
+        "name": "Widget D",
+        "type": "Type 4",
+        "is_active": true,
+        "created_at": "2023-09-26T23:08:51.182Z",
+        "updated_at": "2023-09-26T12:58:09.290Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "40cedf2c-38f1-4b82-a658-7647c0598f27",
+        "name": "Widget E",
+        "type": "Type 5",
+        "is_active": true,
+        "created_at": "2023-09-27T00:01:48.594Z",
+        "updated_at": "2023-09-26T19:09:15.590Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "parking": [
+      {
+        "id": "5ee0fddf-97a9-48a5-abbe-46ce1bdccd05",
+        "name": "Parking Lot A",
+        "location": "Location 1",
+        "capacity": 24995,
+        "is_active": false,
+        "created_at": "2023-09-27T01:32:11.113Z",
+        "updated_at": "2023-09-27T06:35:03.139Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "254bf4df-3c22-423a-ac48-a07a86785a00",
+        "name": "Parking Lot B",
+        "location": "Location 2",
+        "capacity": 44289,
+        "is_active": true,
+        "created_at": "2023-09-26T16:42:12.489Z",
+        "updated_at": "2023-09-26T19:03:26.024Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "dd3cc51c-5792-49f9-a0bc-aea924a6c1ad",
+        "name": "Parking Lot C",
+        "location": "Location 3",
+        "capacity": 78642,
+        "is_active": true,
+        "created_at": "2023-09-26T12:42:31.279Z",
+        "updated_at": "2023-09-26T10:18:57.250Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "54041282-b204-4f2b-844b-689a4c08d1a0",
+        "name": "Parking Lot D",
+        "location": "Location 4",
+        "capacity": 36956,
+        "is_active": false,
+        "created_at": "2023-09-26T23:59:23.430Z",
+        "updated_at": "2023-09-26T19:52:38.147Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "17009aea-54ef-4e14-b801-f70ea15ccd5a",
+        "name": "Parking Lot E",
+        "location": "Location 5",
+        "capacity": 92223,
+        "is_active": false,
+        "created_at": "2023-09-26T12:43:09.591Z",
+        "updated_at": "2023-09-27T09:22:04.931Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "nav_bar": [
+      {
+        "id": "1f72d035-23e9-4f37-9ebb-ca3dbb222517",
+        "name": "Nav Bar A",
+        "type": "Type 1",
+        "is_active": true,
+        "created_at": "2023-09-27T02:10:18.956Z",
+        "updated_at": "2023-09-26T21:20:02.541Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c0c9ec98-9169-47e3-96b4-3bb79072e141",
+        "name": "Nav Bar B",
+        "type": "Type 2",
+        "is_active": true,
+        "created_at": "2023-09-26T19:47:13.885Z",
+        "updated_at": "2023-09-27T01:05:15.743Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c65fe874-1986-44cb-8bc3-575ed0a004d2",
+        "name": "Nav Bar C",
+        "type": "Type 3",
+        "is_active": false,
+        "created_at": "2023-09-26T13:17:28.563Z",
+        "updated_at": "2023-09-27T07:29:55.477Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c8f4b66e-67be-4b08-a5d0-e702218b5a99",
+        "name": "Nav Bar D",
+        "type": "Type 4",
+        "is_active": true,
+        "created_at": "2023-09-27T08:28:04.617Z",
+        "updated_at": "2023-09-26T12:13:27.896Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "867cfde0-0673-4600-8962-b1ae09c8a255",
+        "name": "Nav Bar E",
+        "type": "Type 5",
+        "is_active": true,
+        "created_at": "2023-09-27T04:44:44.453Z",
+        "updated_at": "2023-09-26T16:11:14.657Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "menu": [
+      {
+        "id": "b07f52f7-3453-4fc9-881d-6b5f28707e98",
+        "name": "Menu A",
+        "type": "Type 1",
+        "is_active": true,
+        "created_at": "2023-09-27T00:54:51.848Z",
+        "updated_at": "2023-09-26T21:10:33.159Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "19086274-1dd6-40ce-b8fa-66abc3ed9b4c",
+        "name": "Menu B",
+        "type": "Type 2",
+        "is_active": true,
+        "created_at": "2023-09-27T02:11:40.122Z",
+        "updated_at": "2023-09-26T21:12:17.125Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d8fc0f3e-5ac6-41bc-8778-e1c0f04c87fb",
+        "name": "Menu C",
+        "type": "Type 3",
+        "is_active": true,
+        "created_at": "2023-09-27T03:38:07.159Z",
+        "updated_at": "2023-09-26T21:45:11.833Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "453cde0c-a080-479d-be8d-433bcb7ddffa",
+        "name": "Menu D",
+        "type": "Type 4",
+        "is_active": false,
+        "created_at": "2023-09-26T19:24:02.261Z",
+        "updated_at": "2023-09-26T15:27:19.048Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9d140eaf-717f-484e-8e93-9524576c36d0",
+        "name": "Menu E",
+        "type": "Type 5",
+        "is_active": false,
+        "created_at": "2023-09-26T13:16:15.692Z",
+        "updated_at": "2023-09-27T03:36:08.132Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "2c1a42a7-48fe-46da-900b-04194752598b",
+        "email": "Adeline_Little@roq.tech",
+        "firstName": "Beau",
+        "lastName": "Mraz",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/22.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "107ce509-0cbb-4b5d-856f-39f894d60bcc",
+        "email": "Kiley30@roq.tech",
+        "firstName": "Evans",
+        "lastName": "Rosenbaum",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/692.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "2dff49ef-b2ed-4fe8-afb4-49da885c4bd5",
+        "email": "Christopher_Breitenberg@roq.tech",
+        "firstName": "Eveline",
+        "lastName": "Willms",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/486.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "4bfd55c6-4220-42e5-a571-61e79a554416",
+        "email": "Will.Herman78@roq.tech",
+        "firstName": "Watson",
+        "lastName": "Fahey",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1248.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "27e7fe18-a45f-4d20-b021-551c0a35bd52",
+        "email": "Yvette.Borer81@roq.tech",
+        "firstName": "Kitty",
+        "lastName": "Yost",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/686.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "widget": [
+      {
+        "id": "7ac0bdee-2806-4c33-9f6c-17c500288107",
+        "name": "Widget 1",
+        "type": "Type A",
+        "is_active": false,
+        "created_at": "2023-09-27T03:48:58.562Z",
+        "updated_at": "2023-09-26T21:49:05.583Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "873e3941-a2c3-4676-9733-174844c7fb7d",
+        "name": "Widget 2",
+        "type": "Type B",
+        "is_active": true,
+        "created_at": "2023-09-27T03:19:15.960Z",
+        "updated_at": "2023-09-26T13:19:04.383Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ae81d8ae-8b6a-4931-a54e-3d98c83e9cc0",
+        "name": "Widget 3",
+        "type": "Type C",
+        "is_active": false,
+        "created_at": "2023-09-27T03:31:52.340Z",
+        "updated_at": "2023-09-26T22:31:15.351Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a48767a8-961b-49ca-9fe7-3dcc901a6b84",
+        "name": "Widget 4",
+        "type": "Type D",
+        "is_active": true,
+        "created_at": "2023-09-26T11:59:18.790Z",
+        "updated_at": "2023-09-26T19:43:24.495Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c4aa7877-9340-4247-a171-6785dfe2a6f0",
+        "name": "Widget 5",
+        "type": "Type E",
+        "is_active": false,
+        "created_at": "2023-09-27T02:40:40.283Z",
+        "updated_at": "2023-09-26T23:57:42.284Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "parking": [
+      {
+        "id": "eced6229-c157-4664-8866-9874e0246f54",
+        "name": "Parking 1",
+        "location": "Location A",
+        "capacity": 34729,
+        "is_active": true,
+        "created_at": "2023-09-26T21:55:36.809Z",
+        "updated_at": "2023-09-27T04:50:11.697Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c2a2441a-0e16-43e3-8d02-3f51ca96b089",
+        "name": "Parking 2",
+        "location": "Location B",
+        "capacity": 99740,
+        "is_active": true,
+        "created_at": "2023-09-27T05:03:02.753Z",
+        "updated_at": "2023-09-27T08:33:17.655Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7079c935-2560-418a-9e38-89cb8172eff1",
+        "name": "Parking 3",
+        "location": "Location C",
+        "capacity": 50584,
+        "is_active": true,
+        "created_at": "2023-09-26T12:38:17.401Z",
+        "updated_at": "2023-09-27T08:26:38.777Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "fda85b23-f31d-4055-92b0-550c4c449d0b",
+        "name": "Parking 4",
+        "location": "Location D",
+        "capacity": 10539,
+        "is_active": true,
+        "created_at": "2023-09-27T01:18:06.811Z",
+        "updated_at": "2023-09-26T13:12:00.736Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5697c40b-7339-4cc7-824f-bc18ffd163d3",
+        "name": "Parking 5",
+        "location": "Location E",
+        "capacity": 44760,
+        "is_active": true,
+        "created_at": "2023-09-26T20:32:06.709Z",
+        "updated_at": "2023-09-26T20:37:47.978Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "nav_bar": [
+      {
+        "id": "2c9c2a77-0f3d-478b-858d-1a1855c42fe8",
+        "name": "Nav Bar 1",
+        "type": "Type X",
+        "is_active": false,
+        "created_at": "2023-09-26T18:01:30.416Z",
+        "updated_at": "2023-09-27T07:00:13.040Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a3073657-ea30-4b1f-95b2-0198991b5f49",
+        "name": "Nav Bar 2",
+        "type": "Type Y",
+        "is_active": true,
+        "created_at": "2023-09-26T20:47:43.781Z",
+        "updated_at": "2023-09-26T11:56:34.153Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c2989a5a-17e2-4f16-a7c0-8da8faf2d73e",
+        "name": "Nav Bar 3",
+        "type": "Type Z",
+        "is_active": false,
+        "created_at": "2023-09-26T14:45:26.038Z",
+        "updated_at": "2023-09-26T12:40:51.484Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "50f3e3d0-085b-48ac-9036-4454f44ae7b2",
+        "name": "Nav Bar 4",
+        "type": "Type W",
+        "is_active": false,
+        "created_at": "2023-09-26T16:25:56.021Z",
+        "updated_at": "2023-09-26T15:00:13.521Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4959bd6f-5b1e-4f70-bc6d-1a3ec7f6c595",
+        "name": "Nav Bar 5",
+        "type": "Type V",
+        "is_active": false,
+        "created_at": "2023-09-26T19:54:35.784Z",
+        "updated_at": "2023-09-27T07:36:02.412Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "menu": [
+      {
+        "id": "3c67fcfd-6a9c-48fe-a1c4-09b3494be1e8",
+        "name": "Menu 1",
+        "type": "Type M",
+        "is_active": false,
+        "created_at": "2023-09-26T22:33:00.191Z",
+        "updated_at": "2023-09-27T07:38:16.040Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "96f45896-ae63-4bb2-bebd-a6b371e9beef",
+        "name": "Menu 2",
+        "type": "Type N",
+        "is_active": true,
+        "created_at": "2023-09-26T20:46:36.480Z",
+        "updated_at": "2023-09-27T04:24:10.522Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2ed93708-79ea-4568-a29b-0d8f961804a5",
+        "name": "Menu 3",
+        "type": "Type O",
+        "is_active": false,
+        "created_at": "2023-09-26T17:55:19.264Z",
+        "updated_at": "2023-09-27T03:19:47.454Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8d18a158-1fda-47bd-a2b3-2185227d0e8b",
+        "name": "Menu 4",
+        "type": "Type P",
+        "is_active": false,
+        "created_at": "2023-09-26T23:48:24.951Z",
+        "updated_at": "2023-09-26T10:14:19.466Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7dce5ae0-8af8-46dc-a34d-c7a57b59e15d",
+        "name": "Menu 5",
+        "type": "Type Q",
+        "is_active": true,
+        "created_at": "2023-09-26T18:24:29.526Z",
+        "updated_at": "2023-09-26T09:47:36.731Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "41ba88c4-3a44-455f-89cf-ed1c72ed8914",
+        "email": "Luis_Boehm@roq.tech",
+        "firstName": "Edmond",
+        "lastName": "Abshire",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/82944034",
+        "tenantId": null
+      },
+      {
+        "reference": "d00f0e6a-c2c8-4b3e-98a2-5d2641e2930a",
+        "email": "Cassidy.Schaefer@roq.tech",
+        "firstName": "Eloisa",
+        "lastName": "McDermott",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/291.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "14d11034-d25e-46e9-bc7c-e254955890fd",
+        "email": "Marc38@roq.tech",
+        "firstName": "Eliane",
+        "lastName": "O'Reilly",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1223.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "b86b606a-74ce-4ade-9b15-b1a4d639e60a",
+        "email": "Hershel_Renner@roq.tech",
+        "firstName": "Alfreda",
+        "lastName": "Hermann",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/48.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "7953d55f-488a-4b86-98cc-7407ecab62c9",
+        "email": "Marguerite.Kshlerin@roq.tech",
+        "firstName": "Josefina",
+        "lastName": "Roob",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/48781284",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "widget": [
+      {
+        "id": "65db8cf4-ea36-4580-b430-12f90e4db2e1",
+        "name": "Widget 1",
+        "type": "Type A",
+        "is_active": true,
+        "created_at": "2023-09-26T22:58:45.190Z",
+        "updated_at": "2023-09-27T05:29:29.112Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0d4e2b07-e768-4429-a89d-e6f77bb72850",
+        "name": "Widget 2",
+        "type": "Type B",
+        "is_active": false,
+        "created_at": "2023-09-26T14:17:55.352Z",
+        "updated_at": "2023-09-27T09:02:55.604Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4e3007b3-1ded-4e57-977d-e9ac35a1cffb",
+        "name": "Widget 3",
+        "type": "Type C",
+        "is_active": false,
+        "created_at": "2023-09-26T11:31:26.439Z",
+        "updated_at": "2023-09-26T19:16:18.625Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9492e423-2d61-481b-b47a-48d00e48079a",
+        "name": "Widget 4",
+        "type": "Type D",
+        "is_active": true,
+        "created_at": "2023-09-26T18:15:10.232Z",
+        "updated_at": "2023-09-26T12:34:30.447Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "71ed438f-ed6d-4b56-9a3b-899fff6c5deb",
+        "name": "Widget 5",
+        "type": "Type E",
+        "is_active": false,
+        "created_at": "2023-09-26T14:38:03.146Z",
+        "updated_at": "2023-09-26T17:34:53.349Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "parking": [
+      {
+        "id": "0f26f8a2-8a87-4eb0-8c67-6ea5958413a4",
+        "name": "Parking Lot 1",
+        "location": "Location A",
+        "capacity": 56193,
+        "is_active": false,
+        "created_at": "2023-09-26T21:50:41.307Z",
+        "updated_at": "2023-09-27T07:03:25.438Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ae7910ca-227b-4d72-9f5d-ca98b2ae06c4",
+        "name": "Parking Lot 2",
+        "location": "Location B",
+        "capacity": 4616,
+        "is_active": true,
+        "created_at": "2023-09-26T14:07:15.267Z",
+        "updated_at": "2023-09-26T22:30:10.929Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "885c614d-fb1c-49a1-b81b-b46bdd45c9c6",
+        "name": "Parking Lot 3",
+        "location": "Location C",
+        "capacity": 32075,
+        "is_active": false,
+        "created_at": "2023-09-27T06:54:48.844Z",
+        "updated_at": "2023-09-26T16:45:42.587Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a03fe464-c137-4cf2-814a-b735f57546fb",
+        "name": "Parking Lot 4",
+        "location": "Location D",
+        "capacity": 60285,
+        "is_active": true,
+        "created_at": "2023-09-26T16:05:06.757Z",
+        "updated_at": "2023-09-26T21:30:50.242Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "86bc494b-0951-4386-a759-b5daf848e224",
+        "name": "Parking Lot 5",
+        "location": "Location E",
+        "capacity": 7604,
+        "is_active": true,
+        "created_at": "2023-09-26T23:43:27.011Z",
+        "updated_at": "2023-09-27T00:42:03.354Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "nav_bar": [
+      {
+        "id": "af2db549-b16d-4552-ac4e-0451a8fa0811",
+        "name": "Nav Bar 1",
+        "type": "Type X",
+        "is_active": false,
+        "created_at": "2023-09-27T09:09:54.364Z",
+        "updated_at": "2023-09-26T14:57:34.379Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "19aaed22-84ee-4959-ae8c-9e33ad8764a2",
+        "name": "Nav Bar 2",
+        "type": "Type Y",
+        "is_active": true,
+        "created_at": "2023-09-27T03:41:14.723Z",
+        "updated_at": "2023-09-27T02:43:17.244Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e8c9698f-c28d-4198-93fe-5e93e4946bda",
+        "name": "Nav Bar 3",
+        "type": "Type Z",
+        "is_active": false,
+        "created_at": "2023-09-27T09:19:15.804Z",
+        "updated_at": "2023-09-26T21:06:47.629Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "73f82eed-70b1-4688-8312-95345c62c454",
+        "name": "Nav Bar 4",
+        "type": "Type W",
+        "is_active": false,
+        "created_at": "2023-09-26T19:54:53.223Z",
+        "updated_at": "2023-09-26T13:49:13.641Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a9f8d479-929b-4c9e-8d04-efb207ffb8e7",
+        "name": "Nav Bar 5",
+        "type": "Type V",
+        "is_active": false,
+        "created_at": "2023-09-27T03:57:06.072Z",
+        "updated_at": "2023-09-26T15:12:17.980Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "menu": [
+      {
+        "id": "b9c5faf4-98eb-43d3-a555-5cd89b4cd68a",
+        "name": "Menu 1",
+        "type": "Type 1",
+        "is_active": false,
+        "created_at": "2023-09-26T16:05:42.355Z",
+        "updated_at": "2023-09-27T08:11:38.422Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ef81d8ca-fe9b-4502-b3f6-d8e52183a582",
+        "name": "Menu 2",
+        "type": "Type 2",
+        "is_active": false,
+        "created_at": "2023-09-26T20:08:55.200Z",
+        "updated_at": "2023-09-27T04:45:50.382Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "62302659-88e2-409b-a93e-ebff6add2789",
+        "name": "Menu 3",
+        "type": "Type 3",
+        "is_active": false,
+        "created_at": "2023-09-27T09:12:20.337Z",
+        "updated_at": "2023-09-27T00:43:05.972Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "338a485e-f4fe-4d1a-ba10-e9629dc89d68",
+        "name": "Menu 4",
+        "type": "Type 4",
+        "is_active": true,
+        "created_at": "2023-09-27T06:23:07.282Z",
+        "updated_at": "2023-09-26T23:05:08.632Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ecbdd752-e2fe-483e-ab3d-800695459c47",
+        "name": "Menu 5",
+        "type": "Type 5",
+        "is_active": false,
+        "created_at": "2023-09-26T15:45:37.678Z",
+        "updated_at": "2023-09-26T17:23:35.301Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "41f6ca4f-6a40-4060-b43d-21198823d046",
+        "email": "Chelsea.Rau@roq.tech",
+        "firstName": "Madonna",
+        "lastName": "Kris-Dach",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/164.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "56be22ff-71aa-4d29-a23a-5f197d154040",
+        "email": "Desiree_OReilly@roq.tech",
+        "firstName": "Rolando",
+        "lastName": "Hahn",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/72943080",
+        "tenantId": null
+      },
+      {
+        "reference": "5d984aaa-b826-4b65-b966-e3c1bb6af7a9",
+        "email": "Geovanni_Bins1@roq.tech",
+        "firstName": "Daisha",
+        "lastName": "Rolfson",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/72292040",
+        "tenantId": null
+      },
+      {
+        "reference": "4d0b660e-c389-4c27-a812-5839da3715ad",
+        "email": "Fidel67@roq.tech",
+        "firstName": "Katarina",
+        "lastName": "Carroll",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1063.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "d83fde5c-5484-425e-bb21-6c4f274664a7",
+        "email": "Chanel.Bosco@roq.tech",
+        "firstName": "Percy",
+        "lastName": "Goyette",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/339.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "widget": [
+      {
+        "id": "f84d664c-e828-4660-8fa3-745a41c76e0c",
+        "name": "Widget 1",
+        "type": "Type A",
+        "is_active": false,
+        "created_at": "2023-09-27T07:28:09.647Z",
+        "updated_at": "2023-09-27T01:34:44.936Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a46f6027-7a9d-4046-b259-f8b09ce81173",
+        "name": "Widget 2",
+        "type": "Type B",
+        "is_active": true,
+        "created_at": "2023-09-26T23:03:06.295Z",
+        "updated_at": "2023-09-27T01:43:47.970Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ebf03767-3cec-4d3f-b8bd-b5a6c62d3679",
+        "name": "Widget 3",
+        "type": "Type C",
+        "is_active": false,
+        "created_at": "2023-09-26T22:53:22.198Z",
+        "updated_at": "2023-09-26T21:16:43.925Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d598e667-3d69-4865-b4b1-982a15dfc012",
+        "name": "Widget 4",
+        "type": "Type D",
+        "is_active": false,
+        "created_at": "2023-09-27T00:40:01.207Z",
+        "updated_at": "2023-09-27T02:29:26.171Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0885f7fd-4bfd-4b20-83d7-4ce167d1813e",
+        "name": "Widget 5",
+        "type": "Type E",
+        "is_active": false,
+        "created_at": "2023-09-27T02:33:36.069Z",
+        "updated_at": "2023-09-26T20:42:40.566Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "parking": [
+      {
+        "id": "6d80abfd-62c7-40da-b498-207244515f6c",
+        "name": "Parking 1",
+        "location": "Location A",
+        "capacity": 90947,
+        "is_active": false,
+        "created_at": "2023-09-26T09:33:55.127Z",
+        "updated_at": "2023-09-26T21:55:53.857Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d6bae375-bfcd-4c12-aa8f-14eda16ae286",
+        "name": "Parking 2",
+        "location": "Location B",
+        "capacity": 89667,
+        "is_active": true,
+        "created_at": "2023-09-26T09:57:20.122Z",
+        "updated_at": "2023-09-27T05:31:38.372Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0fa9bf6d-362d-45e2-a4b0-794d995e825f",
+        "name": "Parking 3",
+        "location": "Location C",
+        "capacity": 10464,
+        "is_active": false,
+        "created_at": "2023-09-26T11:35:42.750Z",
+        "updated_at": "2023-09-26T17:18:55.951Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "147dcbf2-e09e-459b-af1e-2ac879f70410",
+        "name": "Parking 4",
+        "location": "Location D",
+        "capacity": 97338,
+        "is_active": true,
+        "created_at": "2023-09-27T02:18:06.079Z",
+        "updated_at": "2023-09-26T22:13:14.170Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "748b6532-13c1-42c4-8170-5f3ba9adea9a",
+        "name": "Parking 5",
+        "location": "Location E",
+        "capacity": 19349,
+        "is_active": true,
+        "created_at": "2023-09-26T18:03:14.947Z",
+        "updated_at": "2023-09-26T21:33:05.354Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "nav_bar": [
+      {
+        "id": "606ce8cd-9c29-40bf-ac91-09a0752e702b",
+        "name": "Nav Bar 1",
+        "type": "Type X",
+        "is_active": false,
+        "created_at": "2023-09-26T12:07:42.931Z",
+        "updated_at": "2023-09-27T02:35:35.317Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "00a164b1-eeb2-415c-9a90-bad61d59f95c",
+        "name": "Nav Bar 2",
+        "type": "Type Y",
+        "is_active": false,
+        "created_at": "2023-09-27T09:12:10.414Z",
+        "updated_at": "2023-09-26T14:39:30.940Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "117bf4ba-2446-4064-a0e7-ff07e6a8913b",
+        "name": "Nav Bar 3",
+        "type": "Type Z",
+        "is_active": false,
+        "created_at": "2023-09-27T04:55:56.441Z",
+        "updated_at": "2023-09-27T04:46:51.251Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d3e0eb81-5b7e-4833-a1d1-fbdee1ac44c1",
+        "name": "Nav Bar 4",
+        "type": "Type W",
+        "is_active": false,
+        "created_at": "2023-09-27T06:22:46.822Z",
+        "updated_at": "2023-09-26T12:32:06.371Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e846c6ae-cb6d-429f-875b-52df2f6097df",
+        "name": "Nav Bar 5",
+        "type": "Type V",
+        "is_active": true,
+        "created_at": "2023-09-26T13:29:26.635Z",
+        "updated_at": "2023-09-27T09:10:57.815Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "menu": [
+      {
+        "id": "c3062634-cc0c-45ae-be2f-17eba0394902",
+        "name": "Menu 1",
+        "type": "Type Alpha",
+        "is_active": true,
+        "created_at": "2023-09-26T12:12:58.938Z",
+        "updated_at": "2023-09-26T21:15:10.254Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3130dac9-e593-4a79-b2cf-d799122e8ef1",
+        "name": "Menu 2",
+        "type": "Type Beta",
+        "is_active": false,
+        "created_at": "2023-09-26T13:30:49.462Z",
+        "updated_at": "2023-09-26T17:53:25.675Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d0a626af-a835-463c-85f0-064fecbad761",
+        "name": "Menu 3",
+        "type": "Type Gamma",
+        "is_active": true,
+        "created_at": "2023-09-27T05:55:22.073Z",
+        "updated_at": "2023-09-26T18:45:14.844Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "059073ef-b118-47e8-9d32-55792c674260",
+        "name": "Menu 4",
+        "type": "Type Delta",
+        "is_active": true,
+        "created_at": "2023-09-26T11:11:29.347Z",
+        "updated_at": "2023-09-26T22:51:18.604Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "feddd5e1-c139-478a-a847-37999c9fe3d3",
+        "name": "Menu 5",
+        "type": "Type Epsilon",
+        "is_active": false,
+        "created_at": "2023-09-26T17:55:08.905Z",
+        "updated_at": "2023-09-27T00:07:32.082Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "cd0ba304-2e73-4c75-b4de-a9f8d1654901",
+        "email": "Skylar_Roob56@roq.tech",
+        "firstName": "Boris",
+        "lastName": "Schroeder",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1134.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "9c2eb984-5d76-43c2-baac-f8f077e622d8",
+        "email": "Micheal.Bergnaum5@roq.tech",
+        "firstName": "Jude",
+        "lastName": "Block",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/172.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "33cf4021-de48-4184-a346-a80a6e018de6",
+        "email": "Caterina_Bernier86@roq.tech",
+        "firstName": "Eulah",
+        "lastName": "Deckow",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/211.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "1a4aa684-ac41-4f6b-9c4a-5db1e761770e",
+        "email": "Jay23@roq.tech",
+        "firstName": "Denis",
+        "lastName": "Pfeffer",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/56540877",
+        "tenantId": null
+      },
+      {
+        "reference": "1dbca4dd-ec7c-49fa-893f-12848ce02b1a",
+        "email": "Barton.Zemlak@roq.tech",
+        "firstName": "Cleo",
+        "lastName": "Huels",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/26911734",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "widget": [
+      {
+        "id": "325982e8-7b6d-4cec-b459-8eaf7506e802",
+        "name": "Widget 1",
+        "type": "Type A",
+        "is_active": true,
+        "created_at": "2023-09-26T10:59:53.432Z",
+        "updated_at": "2023-09-26T23:27:37.902Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "36596190-73f7-487a-a04f-7ecb90b3d28d",
+        "name": "Widget 2",
+        "type": "Type B",
+        "is_active": false,
+        "created_at": "2023-09-26T16:22:39.270Z",
+        "updated_at": "2023-09-27T07:28:45.820Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a7155883-d0f7-4729-82c6-5c82621983e3",
+        "name": "Widget 3",
+        "type": "Type C",
+        "is_active": true,
+        "created_at": "2023-09-26T10:01:27.382Z",
+        "updated_at": "2023-09-26T14:35:04.394Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f9d5a9bc-d481-42f8-a04a-cbc498034b5d",
+        "name": "Widget 4",
+        "type": "Type D",
+        "is_active": false,
+        "created_at": "2023-09-27T05:37:52.801Z",
+        "updated_at": "2023-09-26T11:10:32.703Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0f6a7722-bdca-477a-8da6-9d024b5c7c56",
+        "name": "Widget 5",
+        "type": "Type E",
+        "is_active": false,
+        "created_at": "2023-09-26T19:58:29.586Z",
+        "updated_at": "2023-09-27T07:44:44.132Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "parking": [
+      {
+        "id": "5225af33-1b55-48e9-84f0-ac562717de2f",
+        "name": "Parking Lot 1",
+        "location": "Location A",
+        "capacity": 72205,
+        "is_active": true,
+        "created_at": "2023-09-27T04:43:24.318Z",
+        "updated_at": "2023-09-26T11:45:43.877Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4821242a-caab-4fc6-afef-7e903764c759",
+        "name": "Parking Lot 2",
+        "location": "Location B",
+        "capacity": 30695,
+        "is_active": false,
+        "created_at": "2023-09-27T06:00:44.182Z",
+        "updated_at": "2023-09-26T20:31:00.145Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "514c3e0e-143f-4990-b783-9e385e077ba3",
+        "name": "Parking Lot 3",
+        "location": "Location C",
+        "capacity": 3369,
+        "is_active": false,
+        "created_at": "2023-09-27T03:24:10.280Z",
+        "updated_at": "2023-09-27T06:50:41.781Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2a415324-7dba-4797-ac59-e2e791b8a72c",
+        "name": "Parking Lot 4",
+        "location": "Location D",
+        "capacity": 88161,
+        "is_active": false,
+        "created_at": "2023-09-27T05:52:26.782Z",
+        "updated_at": "2023-09-26T23:09:57.841Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0628e5ab-4851-43d7-a25f-7fa3ad9c696a",
+        "name": "Parking Lot 5",
+        "location": "Location E",
+        "capacity": 81641,
+        "is_active": false,
+        "created_at": "2023-09-26T13:04:34.277Z",
+        "updated_at": "2023-09-27T07:33:44.697Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "nav_bar": [
+      {
+        "id": "9113f250-6f56-4624-962d-e8d2550d5fdf",
+        "name": "Nav Bar 1",
+        "type": "Type X",
+        "is_active": false,
+        "created_at": "2023-09-26T11:20:50.618Z",
+        "updated_at": "2023-09-26T20:43:18.236Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "124831cf-6b37-43db-9ff8-5872e20e23c6",
+        "name": "Nav Bar 2",
+        "type": "Type Y",
+        "is_active": true,
+        "created_at": "2023-09-27T00:24:28.025Z",
+        "updated_at": "2023-09-27T05:53:27.873Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f1497776-e7ed-4fd2-b68a-fe13e2a51561",
+        "name": "Nav Bar 3",
+        "type": "Type Z",
+        "is_active": false,
+        "created_at": "2023-09-26T18:58:08.978Z",
+        "updated_at": "2023-09-26T16:51:36.409Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e652016a-8d91-4ee4-9a3c-a68c95bbd696",
+        "name": "Nav Bar 4",
+        "type": "Type W",
+        "is_active": true,
+        "created_at": "2023-09-26T09:28:50.297Z",
+        "updated_at": "2023-09-27T02:27:55.891Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "235ee790-4e44-43f4-998d-91a5119d69ff",
+        "name": "Nav Bar 5",
+        "type": "Type V",
+        "is_active": false,
+        "created_at": "2023-09-27T03:49:47.912Z",
+        "updated_at": "2023-09-26T11:08:05.555Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "menu": [
+      {
+        "id": "a75dab1a-11bc-47af-a2fc-88d1a774d5d5",
+        "name": "Menu 1",
+        "type": "Type 1",
+        "is_active": false,
+        "created_at": "2023-09-27T07:50:53.719Z",
+        "updated_at": "2023-09-26T17:55:45.709Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8fce03d9-2f44-4657-a6f2-4684feb1aa2f",
+        "name": "Menu 2",
+        "type": "Type 2",
+        "is_active": true,
+        "created_at": "2023-09-26T10:58:35.887Z",
+        "updated_at": "2023-09-26T15:18:47.670Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "58a0bd92-6195-4036-963e-6f1457ace859",
+        "name": "Menu 3",
+        "type": "Type 3",
+        "is_active": true,
+        "created_at": "2023-09-27T07:51:21.019Z",
+        "updated_at": "2023-09-26T10:57:06.772Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d4fc6050-552a-4f0d-bb57-e326bff0026e",
+        "name": "Menu 4",
+        "type": "Type 4",
+        "is_active": false,
+        "created_at": "2023-09-26T21:27:01.889Z",
+        "updated_at": "2023-09-26T19:23:44.983Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d83afa5b-c5ef-4f58-9357-65b2a9cc61ae",
+        "name": "Menu 5",
+        "type": "Type 5",
+        "is_active": true,
+        "created_at": "2023-09-26T22:24:00.398Z",
+        "updated_at": "2023-09-26T09:55:22.139Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "dbf4df40-a1cf-4fb4-b5b2-c1d0ab244101",
+        "email": "Queen.Leuschke-Schmitt@roq.tech",
+        "firstName": "Antoinette",
+        "lastName": "Konopelski",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/160.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "3fede1bf-5c82-479f-8845-b02a335d0821",
+        "email": "Barney23@roq.tech",
+        "firstName": "Adrianna",
+        "lastName": "McGlynn",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/70515598",
+        "tenantId": null
+      },
+      {
+        "reference": "4a92a9f6-034b-43d0-9195-df1632a7cf21",
+        "email": "Gaston_Kuhn@roq.tech",
+        "firstName": "Philip",
+        "lastName": "Dibbert",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/954.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "109cf02b-ecba-46e7-818c-b6a018e78b2c",
+        "email": "Breanna.Wolf17@roq.tech",
+        "firstName": "Sammie",
+        "lastName": "Huel",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/54687249",
+        "tenantId": null
+      },
+      {
+        "reference": "e8983e99-5bd6-4ca7-acb1-4351b305f5be",
+        "email": "Anabelle_Ernser23@roq.tech",
+        "firstName": "Marjorie",
+        "lastName": "Kerluke",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/285.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "widget": [
+      {
+        "id": "a1075159-54ed-4502-96fa-dacec8584cae",
+        "name": "Widget A",
+        "type": "Type 1",
+        "is_active": false,
+        "created_at": "2023-09-27T06:29:40.124Z",
+        "updated_at": "2023-09-27T06:12:18.761Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a17224b6-9bb1-48da-b768-e9afa5be8e7d",
+        "name": "Widget B",
+        "type": "Type 2",
+        "is_active": true,
+        "created_at": "2023-09-26T19:00:44.430Z",
+        "updated_at": "2023-09-27T08:19:35.879Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2de8ed5d-eb28-41d9-8ab5-9b3d07c9923f",
+        "name": "Widget C",
+        "type": "Type 3",
+        "is_active": true,
+        "created_at": "2023-09-26T15:10:26.180Z",
+        "updated_at": "2023-09-27T04:22:34.705Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e2514f0a-877b-4d1c-b153-3292bfb118d8",
+        "name": "Widget D",
+        "type": "Type 4",
+        "is_active": false,
+        "created_at": "2023-09-26T13:22:16.189Z",
+        "updated_at": "2023-09-27T08:19:14.715Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ecd77784-0e56-4483-96a7-4e93dd64a3c4",
+        "name": "Widget E",
+        "type": "Type 5",
+        "is_active": true,
+        "created_at": "2023-09-26T18:38:32.777Z",
+        "updated_at": "2023-09-26T10:25:22.680Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "parking": [
+      {
+        "id": "1f604711-80eb-4b77-b8ff-c436259fba88",
+        "name": "Parking A",
+        "location": "Location 1",
+        "capacity": 2327,
+        "is_active": true,
+        "created_at": "2023-09-27T06:08:36.582Z",
+        "updated_at": "2023-09-27T07:07:38.646Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9c017085-2b34-4b9e-a511-b781b65a5f33",
+        "name": "Parking B",
+        "location": "Location 2",
+        "capacity": 84026,
+        "is_active": true,
+        "created_at": "2023-09-26T22:23:51.840Z",
+        "updated_at": "2023-09-27T08:46:08.073Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9e6d649c-0700-4acf-b799-aea7bc345b6c",
+        "name": "Parking C",
+        "location": "Location 3",
+        "capacity": 42215,
+        "is_active": true,
+        "created_at": "2023-09-26T17:53:21.709Z",
+        "updated_at": "2023-09-26T13:55:03.232Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f8a089ca-888a-412b-8777-0a2e1aeb94a7",
+        "name": "Parking D",
+        "location": "Location 4",
+        "capacity": 86988,
+        "is_active": true,
+        "created_at": "2023-09-26T11:57:31.900Z",
+        "updated_at": "2023-09-27T03:06:51.179Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "de9555fb-1f98-460a-b8e1-1fac01ae925f",
+        "name": "Parking E",
+        "location": "Location 5",
+        "capacity": 17715,
+        "is_active": false,
+        "created_at": "2023-09-27T02:00:09.524Z",
+        "updated_at": "2023-09-26T12:58:06.904Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "nav_bar": [
+      {
+        "id": "df3f6a57-7bf1-4d5d-a6b6-e8431a7e0eb9",
+        "name": "Nav Bar A",
+        "type": "Type 1",
+        "is_active": true,
+        "created_at": "2023-09-27T04:02:25.614Z",
+        "updated_at": "2023-09-26T13:23:57.095Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "26033b05-475c-441f-a078-ceb600c26b1f",
+        "name": "Nav Bar B",
+        "type": "Type 2",
+        "is_active": false,
+        "created_at": "2023-09-27T05:24:34.383Z",
+        "updated_at": "2023-09-26T11:11:56.701Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "69906003-6ccc-4e88-a213-6865d4b875b9",
+        "name": "Nav Bar C",
+        "type": "Type 3",
+        "is_active": true,
+        "created_at": "2023-09-26T22:27:44.467Z",
+        "updated_at": "2023-09-26T18:55:52.662Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c8f0044b-0f68-443e-98f4-ac35797f0ba3",
+        "name": "Nav Bar D",
+        "type": "Type 4",
+        "is_active": false,
+        "created_at": "2023-09-26T15:20:00.936Z",
+        "updated_at": "2023-09-26T22:04:36.400Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "23a127a7-6e2f-4ff4-bf0b-88e9c094433b",
+        "name": "Nav Bar E",
+        "type": "Type 5",
+        "is_active": false,
+        "created_at": "2023-09-26T11:49:02.620Z",
+        "updated_at": "2023-09-27T03:06:11.538Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "menu": [
+      {
+        "id": "004b64d5-446b-4d3b-8d14-d51f9d953574",
+        "name": "Menu A",
+        "type": "Type 1",
+        "is_active": true,
+        "created_at": "2023-09-27T06:53:58.628Z",
+        "updated_at": "2023-09-26T22:26:39.048Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "00ee4696-51ad-4c43-9e86-58e43327ec2d",
+        "name": "Menu B",
+        "type": "Type 2",
+        "is_active": false,
+        "created_at": "2023-09-27T08:33:55.556Z",
+        "updated_at": "2023-09-27T08:43:41.484Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "95e4256a-d46f-49cf-aa2c-02afdbd5ea3c",
+        "name": "Menu C",
+        "type": "Type 3",
+        "is_active": false,
+        "created_at": "2023-09-27T03:34:01.569Z",
+        "updated_at": "2023-09-27T01:51:54.398Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d8a9230d-1f4b-4b66-9f08-0242e4082980",
+        "name": "Menu D",
+        "type": "Type 4",
+        "is_active": true,
+        "created_at": "2023-09-27T05:30:42.286Z",
+        "updated_at": "2023-09-26T18:06:01.746Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "129f0968-665a-489e-8d16-a406140fb6e0",
+        "name": "Menu E",
+        "type": "Type 5",
+        "is_active": false,
+        "created_at": "2023-09-26T21:38:42.645Z",
+        "updated_at": "2023-09-26T20:08:38.685Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "46dbb9d0-f31a-4c6a-8dcc-d3d1359b1b5d",
+        "email": "Ari85@roq.tech",
+        "firstName": "Lindsey",
+        "lastName": "Bednar",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/75186410",
+        "tenantId": null
+      },
+      {
+        "reference": "c14fa076-c227-4f40-ba72-566939445d30",
+        "email": "Jaqueline_Gutmann@roq.tech",
+        "firstName": "Alyson",
+        "lastName": "Johnston-Schoen",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/5120350",
+        "tenantId": null
+      },
+      {
+        "reference": "135e34d5-7435-4a82-9dcd-bb56378d2ad3",
+        "email": "Cassie_Swift@roq.tech",
+        "firstName": "Gilbert",
+        "lastName": "Shields",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/52748365",
+        "tenantId": null
+      },
+      {
+        "reference": "53c09840-81d0-4700-8687-cd4f8f45e6e8",
+        "email": "Dixie.Dooley@roq.tech",
+        "firstName": "Ana",
+        "lastName": "Johnston",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/2739253",
+        "tenantId": null
+      },
+      {
+        "reference": "a8cbb96a-697a-452e-a32e-8a9fdb0bcb79",
+        "email": "Hazle.Trantow@roq.tech",
+        "firstName": "Cleveland",
+        "lastName": "Halvorson",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/480.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "widget": [
+      {
+        "id": "aa7ad498-fa31-45f1-aa48-825b42c5f994",
+        "name": "Widget 1",
+        "type": "Type A",
+        "is_active": false,
+        "created_at": "2023-09-27T04:27:09.701Z",
+        "updated_at": "2023-09-26T12:39:49.017Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "58aea70e-173e-49b5-adec-676943742bd0",
+        "name": "Widget 2",
+        "type": "Type B",
+        "is_active": false,
+        "created_at": "2023-09-27T05:42:28.071Z",
+        "updated_at": "2023-09-26T22:38:47.777Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7a49467e-313c-4e98-899b-f1fe66b750ac",
+        "name": "Widget 3",
+        "type": "Type C",
+        "is_active": true,
+        "created_at": "2023-09-26T19:46:25.319Z",
+        "updated_at": "2023-09-27T07:07:07.149Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "11217ed0-cc8d-43b2-9828-4ac567601a49",
+        "name": "Widget 4",
+        "type": "Type D",
+        "is_active": false,
+        "created_at": "2023-09-27T02:40:36.258Z",
+        "updated_at": "2023-09-26T23:06:00.825Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "aeca2fa3-fbe4-4b55-9d52-3513c03c1d99",
+        "name": "Widget 5",
+        "type": "Type E",
+        "is_active": false,
+        "created_at": "2023-09-27T08:07:13.483Z",
+        "updated_at": "2023-09-26T16:23:39.707Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "parking": [
+      {
+        "id": "26c51833-26c5-4f57-918b-deed843dcda3",
+        "name": "Parking Lot 1",
+        "location": "Location A",
+        "capacity": 80843,
+        "is_active": false,
+        "created_at": "2023-09-27T05:27:11.995Z",
+        "updated_at": "2023-09-27T06:38:01.480Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "76807976-765e-4eb0-93d3-37a1f1bad0be",
+        "name": "Parking Lot 2",
+        "location": "Location B",
+        "capacity": 53932,
+        "is_active": true,
+        "created_at": "2023-09-27T07:13:40.966Z",
+        "updated_at": "2023-09-27T03:44:37.793Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "cdcd9163-002a-489b-8a23-cd05c11f8d46",
+        "name": "Parking Lot 3",
+        "location": "Location C",
+        "capacity": 86146,
+        "is_active": false,
+        "created_at": "2023-09-27T03:44:52.547Z",
+        "updated_at": "2023-09-26T21:07:45.079Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e2c5bfaf-1700-4725-ab6e-df4deed6841f",
+        "name": "Parking Lot 4",
+        "location": "Location D",
+        "capacity": 48197,
+        "is_active": true,
+        "created_at": "2023-09-27T07:57:43.307Z",
+        "updated_at": "2023-09-27T01:22:40.127Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "64841746-64eb-44b3-a2a9-46451b7871cc",
+        "name": "Parking Lot 5",
+        "location": "Location E",
+        "capacity": 34563,
+        "is_active": false,
+        "created_at": "2023-09-27T02:53:05.163Z",
+        "updated_at": "2023-09-26T22:50:38.963Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "nav_bar": [
+      {
+        "id": "62b1e7a8-de57-49a2-8ac0-a6182f2f2012",
+        "name": "Navigation Bar 1",
+        "type": "Type X",
+        "is_active": true,
+        "created_at": "2023-09-26T21:49:51.179Z",
+        "updated_at": "2023-09-27T04:06:19.407Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f80a0fd0-7616-4be3-9735-e3425bb9f76c",
+        "name": "Navigation Bar 2",
+        "type": "Type Y",
+        "is_active": true,
+        "created_at": "2023-09-27T07:13:52.291Z",
+        "updated_at": "2023-09-27T07:25:40.144Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "76553fdb-f3fe-46b7-9a2d-693dace7b537",
+        "name": "Navigation Bar 3",
+        "type": "Type Z",
+        "is_active": true,
+        "created_at": "2023-09-26T19:44:04.514Z",
+        "updated_at": "2023-09-26T23:13:23.127Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "22f7ea65-15fb-4cb4-b1da-d9877c633937",
+        "name": "Navigation Bar 4",
+        "type": "Type W",
+        "is_active": true,
+        "created_at": "2023-09-27T02:07:06.974Z",
+        "updated_at": "2023-09-26T18:36:30.140Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ea1ce222-7e94-415b-b774-dc1457ed062d",
+        "name": "Navigation Bar 5",
+        "type": "Type V",
+        "is_active": false,
+        "created_at": "2023-09-27T09:16:03.350Z",
+        "updated_at": "2023-09-27T02:21:36.662Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "menu": [
+      {
+        "id": "a9e0f35e-04cd-4323-b837-2053052de13d",
+        "name": "Menu 1",
+        "type": "Type M",
+        "is_active": false,
+        "created_at": "2023-09-26T11:42:53.193Z",
+        "updated_at": "2023-09-26T10:11:08.342Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2d1a9338-6b38-4434-9e64-fd5f03673c4f",
+        "name": "Menu 2",
+        "type": "Type N",
+        "is_active": true,
+        "created_at": "2023-09-26T14:52:47.814Z",
+        "updated_at": "2023-09-26T22:16:41.235Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6276d6d4-674a-4423-b042-93a22a236b95",
+        "name": "Menu 3",
+        "type": "Type O",
+        "is_active": false,
+        "created_at": "2023-09-27T01:54:09.214Z",
+        "updated_at": "2023-09-27T04:53:15.127Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "34a3ca56-31ad-4e0a-82a5-9d36735965a5",
+        "name": "Menu 4",
+        "type": "Type P",
+        "is_active": true,
+        "created_at": "2023-09-26T15:19:40.823Z",
+        "updated_at": "2023-09-27T07:52:15.743Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "bfa47cc9-f6d5-4200-bb2d-cc7a3cce74b4",
+        "name": "Menu 5",
+        "type": "Type Q",
+        "is_active": false,
+        "created_at": "2023-09-27T05:19:28.956Z",
+        "updated_at": "2023-09-27T02:32:47.615Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "9e0acfa9-95b3-439e-a0a9-1a6783d1cb54",
+        "email": "Claude_Steuber@roq.tech",
+        "firstName": "Arielle",
+        "lastName": "Nienow",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/673.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "c28ae73c-8f97-4fad-a910-fbf5faec9846",
+        "email": "Felipa_Effertz@roq.tech",
+        "firstName": "Lizeth",
+        "lastName": "Goyette",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/377.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "0583df59-897b-459d-9b0c-22a0f7716ae0",
+        "email": "Zola_Erdman86@roq.tech",
+        "firstName": "Martin",
+        "lastName": "Schneider",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/72311559",
+        "tenantId": null
+      },
+      {
+        "reference": "f7655db1-5192-4edf-8450-bccd2438f4ef",
+        "email": "Rene15@roq.tech",
+        "firstName": "Garfield",
+        "lastName": "Quigley",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1131.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "ddd3e9a1-6210-43fe-a9cf-e2696249ee61",
+        "email": "Devin.Schowalter32@roq.tech",
+        "firstName": "Gerry",
+        "lastName": "Abbott",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/44667883",
+        "tenantId": null
+      }
+    ]
+  }
+]
